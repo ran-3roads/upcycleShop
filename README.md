@@ -2,8 +2,7 @@
 
 ## 1. 개요
 
-![스크린샷 2021-08-03 오후 5.34.14](/Users/parkseongchan/Library/Application Support/typora-user-images/스크린샷 2021-08-03 오후 5.34.14.png)
-
+<img width="769" alt="1" src="https://user-images.githubusercontent.com/66467266/130023639-b2340ea2-85b9-42b5-9780-591bfed80699.png">
 
 
 
@@ -39,7 +38,7 @@ jsp를 사용하여 만든 쇼핑몰 홈페이지 입니다. 소비자들에게 
 
 ## 4. 사이트맵
 
-![스크린샷 2021-08-19 오후 3.38.17](/Users/parkseongchan/Library/Application Support/typora-user-images/스크린샷 2021-08-19 오후 3.38.17.png)
+<img width="780" alt="2" src="https://user-images.githubusercontent.com/66467266/130023642-f66078fd-c1a7-4fd4-a88b-6a39d7cf3a9e.png">
 
 ## 5. 기능
 
